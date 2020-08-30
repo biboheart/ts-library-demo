@@ -1,0 +1,22 @@
+{
+  "name": "@bh/ts-library-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/biboheart/ts-library-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "biboheart@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biboheart/ts-library-demo/issues"
+  },
+  "homepage": "https://github.com/biboheart/ts-library-demo#readme"
+}
