@@ -1,0 +1,13 @@
+/.git/
+/.vscode/
+/node_modules/
+/src/
+.gitignore
+.npmignore
+.babelrc
+.babelrc.*
+.eslintrc
+.eslintrc.*
+tsconfig.json
+yarn.lock
+*.log
